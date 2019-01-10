@@ -33,4 +33,4 @@ III)功能說明:
 
 *PS:可進入application.windows64或application.windows32裡的source/DoublePendulum.pde修改source code
 
-Github:
+Github:https://github.com/LiYiTingTom/PhysicalProject/tree/master/Double%20Pendulum
