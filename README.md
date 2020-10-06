@@ -1,7 +1,7 @@
 # 雙擺運動模擬
-### 1. 執行application.windows64或application.windows32/DoublePendulum.exe
-### 2. 左方為各項數據
-### 3. 功能說明:
+## 1. 執行application.windows64或application.windows32/DoublePendulum.exe
+## 2. 左方為各項數據
+## 3. 功能說明:
 >   - 啟動模式選擇:
 >     - \<F10> : 一組雙擺
 >     - \<F11> : 二組雙擺
@@ -18,7 +18,7 @@
 > - 畫面清除:C
 > 
 > - 暫停:任何按鍵(保留空白鍵)
-### 4. 擷取圖片
+## 4. 擷取圖片
 > - 單個雙擺
 > 
 > <img src="pictures/p1.PNG" height="250">
@@ -28,7 +28,7 @@
 > 
 > <img src="pictures/p3.PNG" width="370">
 
-# 運動方程式
+## 5. 運動方程式
 > ##### Begin by using simple trigonometry to write expressions for the positions x1, y1, x2, y2 in terms of the angles θ1, θ2 .
 > > x1 = L1 sin θ1
 > > y1 = −L1 cos θ1
