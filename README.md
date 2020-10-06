@@ -1,5 +1,5 @@
 # 雙擺運動模擬
-### 1. 根據自己電腦版本打開application.windows64或application.windows32/DoublePendulum.exe
+### 1. 執行application.windows64或application.windows32/DoublePendulum.exe
 ### 2. 左方為各項數據
 ### 3. 功能說明:
 >   - 啟動模式選擇:
