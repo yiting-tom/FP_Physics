@@ -21,9 +21,9 @@
 ### 4. 擷取圖片
 - 單個雙擺
 > 
-> ![p1](pictures/p1.PNG)
-> ![p2](pictures/p2.PNG)
+> ![p1](pictures/p1.PNG | width=100)
+> ![p2](pictures/p2.PNG | width=100)
 > 
 > - 三個雙擺
 > 
-> ![p3](pictures/p3.PNG)
+> ![p3](pictures/p3.PNG | width=100)
