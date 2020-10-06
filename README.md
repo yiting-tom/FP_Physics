@@ -19,11 +19,11 @@
 > 
 > - 暫停:任何按鍵(保留空白鍵)
 ### 4. 擷取圖片
-- 單個雙擺
+> - 單個雙擺
 > 
-> ![p1](pictures/p1.PNG | width=100)
-> ![p2](pictures/p2.PNG | width=100)
+> <img src="pictures/p1.PNG" height="300">
+> <img src="pictures/p2.PNG" height="300">
 > 
 > - 三個雙擺
 > 
-> ![p3](pictures/p3.PNG | width=100)
+> <img src="pictures/p3.PNG" height="300">
