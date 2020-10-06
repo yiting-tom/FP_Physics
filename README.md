@@ -30,8 +30,10 @@
 > - 暫停:任何按鍵(保留空白鍵)
 ### 4. 擷取圖片
 - 單個雙擺
+
 ![p1](pictures/p1.PNG)
 ![p2](pictures/p2.PNG)
 
 - 三個雙擺
+
 ![p3](pictures/p3.PNG)
