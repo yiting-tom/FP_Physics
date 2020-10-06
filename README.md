@@ -26,4 +26,4 @@
 > 
 > - 三個雙擺
 > 
-> <img src="pictures/p3.PNG" height="250">
+> <img src="pictures/p3.PNG" width="370">
