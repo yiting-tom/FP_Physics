@@ -21,9 +21,9 @@
 ### 4. 擷取圖片
 > - 單個雙擺
 > 
-> <img src="pictures/p1.PNG" height="280">
-> <img src="pictures/p2.PNG" height="280">
+> <img src="pictures/p1.PNG" height="250">
+> <img src="pictures/p2.PNG" height="250">
 > 
 > - 三個雙擺
 > 
-> <img src="pictures/p3.PNG" height="280">
+> <img src="pictures/p3.PNG" height="250">
